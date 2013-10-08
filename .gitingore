@@ -1,0 +1,9 @@
+.settings
+
+bin
+
+*.class
+
+# Package Files #
+*.war
+*.ear
